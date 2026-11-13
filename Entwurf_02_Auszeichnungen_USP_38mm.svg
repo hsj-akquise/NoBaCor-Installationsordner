@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:svg="http://www.w3.org/2000/svg" width="568.0mm" height="321.0mm" viewBox="0 0 568.0 321.0" version="1.1" role="img" aria-labelledby="svgtitle svgdesc">
+<title id="svgtitle">NoBaCor Installationsordner, editierbare Umschlaggrafik, Rücken 38.0 mm</title>
+<desc id="svgdesc">A4-Ordner: Rückseite, Rücken und Vorderseite. Texte, Siegel-Illustrationen, Logos und Farbbalken sind SVG-Text und Vektorformen, kein eingebettetes Bild. Endformat muss mit Druckerei-Stanzvorlage abgeglichen werden.</desc>
+<defs>
+  <linearGradient id="silber" x1="0" y1="0" x2="0.25" y2="1" objectBoundingBox="true"><stop offset="0" stop-color="#F8FAFA"/><stop offset=".19" stop-color="#E4E8E9"/><stop offset=".39" stop-color="#FBFCFA"/><stop offset=".62" stop-color="#E7EBEC"/><stop offset=".83" stop-color="#F5F7F6"/><stop offset="1" stop-color="#D9DFE0"/></linearGradient>
+  <linearGradient id="silberWelle" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#A8B1B2" stop-opacity=".15"/><stop offset=".20" stop-color="#FFFFFF" stop-opacity=".26"/><stop offset=".48" stop-color="#97A4A8" stop-opacity=".09"/><stop offset=".70" stop-color="#FFFFFF" stop-opacity=".22"/><stop offset="1" stop-color="#A3ADB0" stop-opacity=".15"/></linearGradient>
+  <pattern id="metallBueste" width="2" height="2" patternUnits="userSpaceOnUse"><path d="M0 .11 H2 M0 .53 H2 M0 1.17 H2 M0 1.72 H2" stroke="#79858B" stroke-opacity=".14" stroke-width=".047"/><path d="M0 .28 H2 M0 1.49 H2" stroke="#FFFFFF" stroke-opacity=".65" stroke-width=".08"/></pattern>
+  <linearGradient id="farbverlauf" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#1E6DE8"/><stop offset=".2" stop-color="#35B7F0"/><stop offset=".52" stop-color="#00C42E"/><stop offset=".77" stop-color="#7FA725"/><stop offset="1" stop-color="#B65D20"/></linearGradient>
+  <linearGradient id="signal" x1="0" x2="1" y1="1" y2="0"><stop offset="0" stop-color="#1930C5"/><stop offset=".48" stop-color="#1787FB"/><stop offset="1" stop-color="#39D1F0"/></linearGradient>
+  <linearGradient id="logoBlue" x1="0" x2="1" y1="1" y2="0"><stop stop-color="#183ED8"/><stop offset="1" stop-color="#259DF4"/></linearGradient>
+  <linearGradient id="logoGreen" x1="0" x2="0" y1="1" y2="0"><stop stop-color="#007800"/><stop offset="1" stop-color="#0ADA11"/></linearGradient>
+  <linearGradient id="logoCopper" x1="0" x2="1" y1="1" y2="0"><stop stop-color="#98531D"/><stop offset="1" stop-color="#CC702C"/></linearGradient>
+  <linearGradient id="iconEnergy" x1="0" x2="1" y1="1" y2="0"><stop stop-color="#07528E"/><stop offset="1" stop-color="#27C7ED"/></linearGradient>
+  <linearGradient id="iconChemie" x1="0" x2="1" y1="1" y2="0"><stop stop-color="#00831E"/><stop offset="1" stop-color="#34DB27"/></linearGradient>
+  <linearGradient id="iconProcess" x1="0" x2="1" y1="1" y2="0"><stop stop-color="#965115"/><stop offset="1" stop-color="#EDA83B"/></linearGradient>
+  <radialGradient id="badgeSilver"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".62" stop-color="#E4ECEE"/><stop offset="1" stop-color="#BAC4C8"/></radialGradient>
+</defs>
+<g id="Ebene_01_Hintergrund" inkscape:groupmode="layer" inkscape:label="01 | Hintergrund &amp; Metalltextur"  >
+<rect x="0.00" y="0.00" width="568.00" height="321.00" rx="0.00" fill="url(#silber)"   />
+<rect x="0.00" y="0.00" width="568.00" height="321.00" rx="0.00" fill="url(#silberWelle)"   />
+<rect x="0.00" y="0.00" width="568.00" height="321.00" rx="0.00" fill="url(#metallBueste)"   />
+</g>
+<g id="Ebene_02_Rueckseite" inkscape:groupmode="layer" inkscape:label="02 | Rückseite" transform="translate(3 3) scale(1.000000 1.000000)" >
+<g id="Signet_Rueckseite" transform="translate(131.00 88.00) scale(0.870)" aria-label="Stilisiertes Frequenzsignal">
+<rect x="-38.80" y="-6.50" width="4.70" height="13.00" rx="2.26" fill="url(#signal)"   />
+<rect x="-30.25" y="-10.50" width="4.70" height="21.00" rx="2.26" fill="url(#signal)"   />
+<rect x="-21.70" y="-17.00" width="4.70" height="34.00" rx="2.26" fill="url(#signal)"   />
+<rect x="-13.15" y="-24.00" width="5.20" height="48.00" rx="2.50" fill="url(#signal)"   />
+<rect x="-4.10" y="-13.50" width="4.70" height="27.00" rx="2.26" fill="url(#signal)"   />
+<rect x="4.45" y="-30.00" width="5.40" height="60.00" rx="2.59" fill="url(#signal)"   />
+<rect x="13.70" y="-18.00" width="4.70" height="36.00" rx="2.26" fill="url(#signal)"   />
+<rect x="22.25" y="-10.50" width="4.70" height="21.00" rx="2.26" fill="url(#signal)"   />
+<rect x="30.80" y="-5.50" width="4.70" height="11.00" rx="2.26" fill="url(#signal)"   />
+<circle cx="40.20" cy="6.00" r="3.80" fill="url(#signal)"   />
+</g>
+<g id="Claim_Rueckseite">
+<text id="Claim_NoBacteria_NoCorrosion" data-editierbar="Text" x="131" y="143" font-size="9.6" font-family="Hanken Grotesk, Arial, sans-serif" font-weight="700" letter-spacing=".65" text-anchor="middle"><tspan fill="#12812C">NO BACTERIA.</tspan><tspan dx="3.5" fill="#B55A20">NO CORROSION.</tspan></text>
+<text id="Claim_English_2" data-editierbar="Text" x="131.00" y="157.00" font-size="7.10" fill="#899196" font-weight="500" font-family="Hanken Grotesk, Helvetica Neue, Arial, sans-serif" text-anchor="middle" letter-spacing="1.05" >IN COOLING SYSTEMS.</text>
+</g>
+<g id="Verlaufspfeil_Rueckseite">
+<rect x="20.00" y="175.97" width="214.00" height="2.05" rx="1.02" fill="url(#farbverlauf)"   />
+<path d="M 232 172.9 L 241 177 L 232 181.1 Z" fill="#AF5718"   />
+</g>
+<line x1="72.00" y1="202.00" x2="72.00" y2="255.00" stroke="#B8BEBC" stroke-width="0.35" />
+<line x1="130.50" y1="202.00" x2="130.50" y2="255.00" stroke="#B8BEBC" stroke-width="0.35" />
+<line x1="189.10" y1="202.00" x2="189.10" y2="255.00" stroke="#B8BEBC" stroke-width="0.35" />
+<g id="Auszeichnung_1" aria-label="GERMAN INNOVATION AWARD WINNER 2021">
+<path d="M34.0 241.5 Q18.0 234.5 25.0 217.5 Q27.0 211.5 32.0 208.5" fill="none" stroke="#B78A2C" stroke-width="0.8" />
+<path d="M52.0 241.5 Q68.0 234.5 61.0 217.5 Q59.0 211.5 54.0 208.5" fill="none" stroke="#B78A2C" stroke-width="0.8" />
+<ellipse cx="28.00" cy="213.50" rx="2.3" ry="4.6" transform="rotate(40 28.00 213.50)" fill="#B78A2C" opacity=".92"/>
+<ellipse cx="25.00" cy="218.50" rx="2.3" ry="4.6" transform="rotate(28 25.00 218.50)" fill="#B78A2C" opacity=".92"/>
+<ellipse cx="24.00" cy="223.50" rx="2.3" ry="4.6" transform="rotate(5 24.00 223.50)" fill="#B78A2C" opacity=".92"/>
+<ellipse cx="23.00" cy="229.50" rx="2.3" ry="4.6" transform="rotate(-15 23.00 229.50)" fill="#B78A2C" opacity=".92"/>
+<ellipse cx="26.00" cy="235.50" rx="2.3" ry="4.6" transform="rotate(-34 26.00 235.50)" fill="#B78A2C" opacity=".92"/>
+<ellipse cx="58.00" cy="213.50" rx="2.3" ry="4.6" transform="rotate(-40 58.00 213.50)" fill="#B78A2C" opacity=".92"/>
+<ellipse cx="61.00" cy="218.50" rx="2.3" ry="4.6" transform="rotate(-28 61.00 218.50)" fill="#B78A2C" opacity=".92"/>
+<ellipse cx="62.00" cy="223.50" rx="2.3" ry="4.6" transform="rotate(-5 62.00 223.50)" fill="#B78A2C" opacity=".92"/>
+<ellipse cx="63.00" cy="229.50" rx="2.3" ry="4.6" transform="rotate(15 63.00 229.50)" fill="#B78A2C" opacity=".92"/>
+<ellipse cx="60.00" cy="235.50" rx="2.3" ry="4.6" transform="rotate(34 60.00 235.50)" fill="#B78A2C" opacity=".92"/>
+<text data-editierbar="Text" x="43.00" y="215.00" font-size="4.20" fill="#263139" font-weight="700" font-family="Hanken Grotesk, Arial, sans-serif" text-anchor="middle" >GERMAN</text>
+<text data-editierbar="Text" x="43.00" y="220.50" font-size="4.20" fill="#263139" font-weight="700" font-family="Hanken Grotesk, Arial, sans-serif" text-anchor="middle" >INNOVATION</text>
+<text data-editierbar="Text" x="43.00" y="226.00" font-size="4.20" fill="#263139" font-weight="700" font-family="Hanken Grotesk, Arial, sans-serif" text-anchor="middle" >AWARD</text>
+<text data-editierbar="Text" x="43.00" y="231.50" font-size="4.00" fill="#263139" font-weight="700" font-family="Hanken Grotesk, Arial, sans-serif" text-anchor="middle" >WINNER 2021</text>
+</g>
+<g id="Auszeichnung_2" aria-label="GREEN PRODUCT AWARD FINALIST 2025">
+<path d="M92.5 241.5 Q76.5 234.5 83.5 217.5 Q85.5 211.5 90.5 208.5" fill="none" stroke="#2A9C26" stroke-width="0.8" />
+<path d="M110.5 241.5 Q126.5 234.5 119.5 217.5 Q117.5 211.5 112.5 208.5" fill="none" stroke="#2A9C26" stroke-width="0.8" />
+<ellipse cx="86.50" cy="213.50" rx="2.3" ry="4.6" transform="rotate(40 86.50 213.50)" fill="#2A9C26" opacity=".92"/>
+<ellipse cx="83.50" cy="218.50" rx="2.3" ry="4.6" transform="rotate(28 83.50 218.50)" fill="#2A9C26" opacity=".92"/>
+<ellipse cx="82.50" cy="223.50" rx="2.3" ry="4.6" transform="rotate(5 82.50 223.50)" fill="#2A9C26" opacity=".92"/>
+<ellipse cx="81.50" cy="229.50" rx="2.3" ry="4.6" transform="rotate(-15 81.50 229.50)" fill="#2A9C26" opacity=".92"/>
+<ellipse cx="84.50" cy="235.50" rx="2.3" ry="4.6" transform="rotate(-34 84.50 235.50)" fill="#2A9C26" opacity=".92"/>
+<ellipse cx="116.50" cy="213.50" rx="2.3" ry="4.6" transform="rotate(-40 116.50 213.50)" fill="#2A9C26" opacity=".92"/>
+<ellipse cx="119.50" cy="218.50" rx="2.3" ry="4.6" transform="rotate(-28 119.50 218.50)" fill="#2A9C26" opacity=".92"/>
+<ellipse cx="120.50" cy="223.50" rx="2.3" ry="4.6" transform="rotate(-5 120.50 223.50)" fill="#2A9C26" opacity=".92"/>
+<ellipse cx="121.50" cy="229.50" rx="2.3" ry="4.6" transform="rotate(15 121.50 229.50)" fill="#2A9C26" opacity=".92"/>
+<ellipse cx="118.50" cy="235.50" rx="2.3" ry="4.6" transform="rotate(34 118.50 235.50)" fill="#2A9C26" opacity=".92"/>
+<text data-editierbar="Text" x="101.50" y="215.00" font-size="3.70" fill="#23761F" font-weight="700" font-family="Hanken Grotesk, Helvetica Neue, Arial, sans-serif" text-anchor="middle" >GREEN PRODUCT</text>
+<text data-editierbar="Text" x="101.50" y="220.50" font-size="4.15" fill="#23761F" font-weight="700" font-family="Hanken Grotesk, Helvetica Neue, Arial, sans-serif" text-anchor="middle" >AWARD</text>
+<text data-editierbar="Text" x="101.50" y="226.00" font-size="4.15" fill="#23761F" font-weight="700" font-family="Hanken Grotesk, Helvetica Neue, Arial, sans-serif" text-anchor="middle" >FINALIST</text>
+<text data-editierbar="Text" x="101.50" y="231.50" font-size="4.15" fill="#23761F" font-weight="700" font-family="Hanken Grotesk, Helvetica Neue, Arial, sans-serif" text-anchor="middle" >2025</text>
+</g>
+<g id="Auszeichnung_3" aria-label="ISO 9001 ZERTIFIZIERT">
+<circle cx="160.00" cy="225.50" r="21.20" fill="url(#badgeSilver)" stroke="#9EA7A9" stroke-width="0.85" />
+<circle cx="160.00" cy="225.50" r="18.50" fill="none" stroke="#3D9AD0" stroke-width="0.75" />
+<circle cx="160.00" cy="225.50" r="16.10" fill="none" stroke="#BEC6C5" stroke-width="0.35" />
+<text data-editierbar="Text" x="160.00" y="218.00" font-size="7.10" fill="#203034" font-weight="700" font-family="Hanken Grotesk, Helvetica Neue, Arial, sans-serif" text-anchor="middle" >ISO</text>
+<text data-editierbar="Text" x="160.00" y="228.70" font-size="11.10" fill="#203034" font-weight="800" font-family="Hanken Grotesk, Helvetica Neue, Arial, sans-serif" text-anchor="middle" >9001</text>
+<text data-editierbar="Text" x="160.00" y="234.80" font-size="3.75" fill="#37474C" font-weight="700" font-family="Hanken Grotesk, Helvetica Neue, Arial, sans-serif" text-anchor="middle" >ZERTIFIZIERT</text>
+</g>
+<g id="Auszeichnung_4" aria-label="MADE IN GERMANY">
+<circle cx="218.50" cy="225.50" r="20.90" fill="#F4F3F0" stroke="#55585B" stroke-width="0.75" />
+<path d="M200.5 234.5 A20 20 0 0 1 204.5 210.5" fill="none" stroke="#0C1113" stroke-width="3.1" />
+<path d="M204.7 240.7 A20 20 0 0 1 200.5 234.5" fill="none" stroke="#C9252D" stroke-width="3.1" />
+<path d="M205.7 242.5 A20 20 0 0 0 230.0 242.5" fill="none" stroke="#F5B400" stroke-width="3.1" />
+<text data-editierbar="Text" x="218.50" y="223.10" font-size="5.20" fill="#243037" font-weight="700" font-family="Hanken Grotesk, Helvetica Neue, Arial, sans-serif" text-anchor="middle" >MADE IN</text>
+<text data-editierbar="Text" x="218.50" y="230.10" font-size="5.30" fill="#243037" font-weight="700" font-family="Hanken Grotesk, Helvetica Neue, Arial, sans-serif" text-anchor="middle" >GERMANY</text>
+</g>
+<text id="Kontakt_Rueckseite" data-editierbar="Text" x="131.00" y="287.50" font-size="4.40" fill="#1F2D34" font-weight="600" font-family="Hanken Grotesk, Helvetica Neue, Arial, sans-serif" text-anchor="middle" >nobacor.com  ·  +49 9191 960 910 0  ·  Pfaffensee 3  ·  91301 Forchheim</text>
+</g>
+<g id="Ebene_03_Ruecken" inkscape:groupmode="layer" inkscape:label="03 | Rücken" transform="translate(265.000 3.000)" >
+<rect x="0.00" y="0.00" width="38.00" height="315.00" rx="0.00" fill="#FFFFFF"   opacity=".10"/>
+<line x1="0.60" y1="0.00" x2="0.60" y2="315.00" stroke="#A5ACAE" stroke-width="0.50" />
+<line x1="37.40" y1="0.00" x2="37.40" y2="315.00" stroke="#B4BDBD" stroke-width="0.50" />
+<g id="Signet_Ruecken" transform="translate(19.00 28.00) scale(0.280)" aria-label="Stilisiertes Frequenzsignal">
+<rect x="-38.80" y="-6.50" width="4.70" height="13.00" rx="2.26" fill="url(#signal)"   />
+<rect x="-30.25" y="-10.50" width="4.70" height="21.00" rx="2.26" fill="url(#signal)"   />
+<rect x="-21.70" y="-17.00" width="4.70" height="34.00" rx="2.26" fill="url(#signal)"   />
+<rect x="-13.15" y="-24.00" width="5.20" height="48.00" rx="2.50" fill="url(#signal)"   />
+<rect x="-4.10" y="-13.50" width="4.70" height="27.00" rx="2.26" fill="url(#signal)"   />
+<rect x="4.45" y="-30.00" width="5.40" height="60.00" rx="2.59" fill="url(#signal)"   />
+<rect x="13.70" y="-18.00" width="4.70" height="36.00" rx="2.26" fill="url(#signal)"   />
+<rect x="22.25" y="-10.50" width="4.70" height="21.00" rx="2.26" fill="url(#signal)"   />
+<rect x="30.80" y="-5.50" width="4.70" height="11.00" rx="2.26" fill="url(#signal)"   />
+<circle cx="40.20" cy="6.00" r="3.80" fill="url(#signal)"   />
+</g>
+<text id="Logo_Ruecken" data-editierbar="Text" x="19.00" y="53" font-size="8" font-family="Outfit, Arial, sans-serif" text-anchor="middle"><tspan fill="#1E6DE8">No</tspan><tspan fill="#008A00">Ba</tspan><tspan fill="#B65D20">Cor</tspan></text>
+<g id="Mini_Pfeil_Ruecken">
+<rect x="8.00" y="63.40" width="15.00" height="1.20" rx="0.60" fill="url(#farbverlauf)"   />
+<path d="M 21.0 59.9 L 30.0 64 L 21.0 68.1 Z" fill="#AF5718"   />
+</g>
+<text id="Titel_Ruecken" data-editierbar="Text" transform="translate(19.00,251) rotate(-90)" x="0" y="0" text-anchor="start" font-size="12.2" fill="#1C2A31" font-family="Hanken Grotesk, Arial, sans-serif" font-weight="800" letter-spacing=".5">INSTALLATIONSORDNER</text>
+</g>
+<g id="Ebene_04_Vorderseite" inkscape:groupmode="layer" inkscape:label="04 | Vorderseite" transform="translate(303.000 3.000) scale(1.000000 1.000000)" >
+<g id="Signet_Vorderseite" transform="translate(130.00 44.00) scale(0.590)" aria-label="Stilisiertes Frequenzsignal">
+<rect x="-38.80" y="-6.50" width="4.70" height="13.00" rx="2.26" fill="url(#signal)"   />
+<rect x="-30.25" y="-10.50" width="4.70" height="21.00" rx="2.26" fill="url(#signal)"   />
+<rect x="-21.70" y="-17.00" width="4.70" height="34.00" rx="2.26" fill="url(#signal)"   />
+<rect x="-13.15" y="-24.00" width="5.20" height="48.00" rx="2.50" fill="url(#signal)"   />
+<rect x="-4.10" y="-13.50" width="4.70" height="27.00" rx="2.26" fill="url(#signal)"   />
+<rect x="4.45" y="-30.00" width="5.40" height="60.00" rx="2.59" fill="url(#signal)"   />
+<rect x="13.70" y="-18.00" width="4.70" height="36.00" rx="2.26" fill="url(#signal)"   />
+<rect x="22.25" y="-10.50" width="4.70" height="21.00" rx="2.26" fill="url(#signal)"   />
+<rect x="30.80" y="-5.50" width="4.70" height="11.00" rx="2.26" fill="url(#signal)"   />
+<circle cx="40.20" cy="6.00" r="3.80" fill="url(#signal)"   />
+</g>
+<g id="Logo_Vorderseite" aria-label="NoBaCor Logo als editierbarer Text">
+<text id="Logo_Wortmarke_Text" data-editierbar="Text" x="16" y="99" textLength="229" lengthAdjust="spacingAndGlyphs" font-size="50" font-family="Outfit, Hanken Grotesk, Arial, sans-serif" font-weight="400"><tspan fill="url(#logoBlue)">No</tspan><tspan fill="url(#logoGreen)">Ba</tspan><tspan fill="url(#logoCopper)">Cor</tspan></text>
+</g>
+<text id="Titel_Vorderseite" data-editierbar="Text" x="18.00" y="128.00" font-size="15.60" fill="#1A282D" font-weight="800" font-family="Hanken Grotesk, Arial, sans-serif" >INSTALLATIONSORDNER</text>
+<text id="Untertitel_Vorderseite" data-editierbar="Text" x="19.00" y="142.00" font-size="7.10" fill="#596369" font-weight="450" font-family="Hanken Grotesk, Helvetica Neue, Arial, sans-serif" >Projektunterlagen für NoBaCor Systeme</text>
+<g id="Verlaufspfeil_Vorderseite">
+<rect x="18.00" y="158.82" width="220.00" height="2.35" rx="1.18" fill="url(#farbverlauf)"   />
+<path d="M 236 155.9 L 245 160 L 236 164.1 Z" fill="#AF5718"   />
+</g>
+<g id="USP_01_Energie">
+<g id="USP_01_Energie_Icon">
+<rect x="22.00" y="182.00" width="25.00" height="25.00" rx="5.40" fill="url(#iconEnergy)"   />
+<path d="M30.4 199.7 C28.9 192.1, 34.8 187.6, 42.4 187.2 C42.6 195.1, 38.8 202.1, 30.4 199.7 Z" fill="none" stroke="#FFFFFF" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M29.9 202 C33 196.5, 37.2 193.6, 41.5 189.5" fill="none" stroke="#FFFFFF" stroke-width="1.25" stroke-linecap="round"/>
+</g>
+<text id="USP_01_Energie_Text" data-editierbar="Text" x="58.00" y="197.80" font-size="9.70" fill="#1C2B30" font-weight="750" font-family="Hanken Grotesk, Helvetica Neue, Arial, sans-serif" >Lower energy consumption</text>
+</g>
+<g id="USP_02_Chemie">
+<g id="USP_02_Chemie_Icon">
+<rect x="22.00" y="219.00" width="25.00" height="25.00" rx="5.40" fill="url(#iconChemie)"   />
+<path d="M31.4 224.7 H38.8 M33.2 224.8 V230.2 L29.2 238 Q28.3 240.0 31.7 240.0 H38.8 Q42.2 240.0 41.3 238 L37.2 230.2 V224.8" fill="none" stroke="#FFFFFF" stroke-width="1.15" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M31.2 235.2 H39.3" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round"/>
+<circle cx="33.60" cy="237.40" r="0.65" fill="#FFFFFF"   />
+<circle cx="37.40" cy="236.50" r="0.65" fill="#FFFFFF"   />
+</g>
+<text id="USP_02_Chemie_Text" data-editierbar="Text" x="58.00" y="234.80" font-size="9.70" fill="#1C2B30" font-weight="750" font-family="Hanken Grotesk, Helvetica Neue, Arial, sans-serif" >Less treatment chemicals</text>
+</g>
+<g id="USP_03_Prozesssicherheit">
+<g id="USP_03_Prozesssicherheit_Icon">
+<rect x="22.00" y="256.00" width="25.00" height="25.00" rx="5.40" fill="url(#iconProcess)"   />
+<circle cx="34.50" cy="268.50" r="7.00" fill="none" stroke="#FFFFFF" stroke-width="1.3" />
+<line x1="42.50" y1="268.50" x2="43.90" y2="268.50" stroke="#FFFFFF" stroke-width="1.35" stroke-linecap="round"/>
+<line x1="40.16" y1="274.16" x2="41.15" y2="275.15" stroke="#FFFFFF" stroke-width="1.35" stroke-linecap="round"/>
+<line x1="34.50" y1="276.50" x2="34.50" y2="277.90" stroke="#FFFFFF" stroke-width="1.35" stroke-linecap="round"/>
+<line x1="28.84" y1="274.16" x2="27.85" y2="275.15" stroke="#FFFFFF" stroke-width="1.35" stroke-linecap="round"/>
+<line x1="26.50" y1="268.50" x2="25.10" y2="268.50" stroke="#FFFFFF" stroke-width="1.35" stroke-linecap="round"/>
+<line x1="28.84" y1="262.84" x2="27.85" y2="261.85" stroke="#FFFFFF" stroke-width="1.35" stroke-linecap="round"/>
+<line x1="34.50" y1="260.50" x2="34.50" y2="259.10" stroke="#FFFFFF" stroke-width="1.35" stroke-linecap="round"/>
+<line x1="40.16" y1="262.84" x2="41.15" y2="261.85" stroke="#FFFFFF" stroke-width="1.35" stroke-linecap="round"/>
+<path d="M30.8 268.8 L33.5 271.3 L38.8 265.6" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text id="USP_03_Prozesssicherheit_Text" data-editierbar="Text" x="58.00" y="271.80" font-size="9.70" fill="#1C2B30" font-weight="750" font-family="Hanken Grotesk, Helvetica Neue, Arial, sans-serif" >Higher process reliability</text>
+</g>
+<line x1="58.00" y1="215.20" x2="244.00" y2="215.20" stroke="#BFC8C8" stroke-width="0.35" />
+<line x1="58.00" y1="252.10" x2="244.00" y2="252.10" stroke="#BFC8C8" stroke-width="0.35" />
+</g>
+<g id="Ebene_05_Farbband" inkscape:groupmode="layer" inkscape:label="05 | Farbband, editierbarer Verlauf"  >
+<path d="M 0 304.00 C 90.88 315.00, 193.12 314.00, 278.32 306.00 S 477.12 296.00, 568.00 291.00 L 568.00 321.00 L 0 321.00 Z" fill="url(#farbverlauf)"   />
+<path d="M 0 304.00 C 90.88 315.00, 193.12 314.00, 278.32 306.00 S 477.12 296.00, 568.00 291.00" fill="none" stroke="#FFFFFF" stroke-width="1.5" />
+</g>
+<g id="Ebene_06_Druckhilfen" inkscape:groupmode="layer" inkscape:label="06 | Falzlinien &amp; Anschnitt (ausgeblendet)"  style="display:none">
+<rect x="3.00" y="3.00" width="562.00" height="315.00" rx="0.00" fill="none" stroke="#F04A28" stroke-width="0.55" stroke-dasharray="2 1"/>
+<line x1="265.00" y1="0.00" x2="265.00" y2="321.00" stroke="#E04030" stroke-width="0.55" stroke-dasharray="2 1"/>
+<line x1="303.00" y1="0.00" x2="303.00" y2="321.00" stroke="#E04030" stroke-width="0.55" stroke-dasharray="2 1"/>
+</g>
+</svg>
